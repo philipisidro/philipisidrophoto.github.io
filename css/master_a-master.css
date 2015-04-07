@@ -1,0 +1,150 @@
+#u3107-4
+{
+	font-size: 12px;
+	line-height: 14px;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	position: fixed;
+}
+
+#u3105,#pamphletu511
+{
+	position: fixed;
+}
+
+#u512
+{
+	position: absolute;
+}
+
+#u564
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+	position: relative;
+}
+
+#u572,#u574,#u2923
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u539
+{
+	position: relative;
+}
+
+#u570
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+}
+
+#u577-4
+{
+	background-color: transparent;
+	color: #999999;
+	text-align: center;
+	line-height: 20px;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	position: relative;
+}
+
+#u570:hover #u577-4 p
+{
+	color: #6B6B6B;
+	visibility: inherit;
+}
+
+#u573
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+}
+
+#u579-4
+{
+	background-color: transparent;
+	color: #999999;
+	text-align: center;
+	line-height: 20px;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	position: relative;
+}
+
+#u573:hover #u579-4 p
+{
+	color: #6B6B6B;
+	visibility: inherit;
+}
+
+#u575
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+}
+
+#u581-4
+{
+	background-color: transparent;
+	color: #999999;
+	text-align: center;
+	line-height: 20px;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	position: relative;
+}
+
+#u575:hover #u581-4 p
+{
+	color: #6B6B6B;
+	visibility: inherit;
+}
+
+#u2924
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+}
+
+#u2926-4
+{
+	background-color: transparent;
+	color: #999999;
+	text-align: center;
+	line-height: 20px;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	position: relative;
+}
+
+#u2924:hover #u2926-4 p
+{
+	color: #6B6B6B;
+	visibility: inherit;
+}
+
+#u570.PamphletThumbSelected #u577-4 p,#u573.PamphletThumbSelected #u579-4 p,#u575.PamphletThumbSelected #u581-4 p,#u2924.PamphletThumbSelected #u2926-4 p
+{
+	color: #999999;
+	visibility: inherit;
+}
+
+.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
